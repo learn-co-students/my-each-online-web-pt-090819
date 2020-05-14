@@ -8,7 +8,7 @@ def my_each(array)
 end
 
 
-#def hello_t(array)
+# def hello_t(array)
 #  i = 0
  
 #  while i < array.length
@@ -17,4 +17,4 @@ end
 #  end
  
 #  array
-#end
+# end
